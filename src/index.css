@@ -1,0 +1,26 @@
+@font-face {
+  font-family: yek;
+  src: url(assets/Abhaya_Libre/AbhayaLibre-SemiBold.ttf);
+}
+@font-face {
+  font-family: dow;
+  src: url(assets/Abhaya_Libre/AbhayaLibre-Regular.ttf);
+
+}
+@font-face {
+  font-family: sew;
+  src: url(assets/Abhaya_Libre/AbhayaLibre-Medium.ttf);
+}
+@font-face {
+  font-family: chahar;
+  src: url(assets/Abhaya_Libre/AbhayaLibre-ExtraBold.ttf);
+}
+@font-face {
+  font-family: panj;
+  src: url(assets/Abhaya_Libre/AbhayaLibre-Bold.ttf);
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
